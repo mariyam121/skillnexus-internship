@@ -1,0 +1,3 @@
+Python is easy to learn.
+Python is a programming language.
+I am learning Python.
